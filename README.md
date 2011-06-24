@@ -12,11 +12,11 @@ clone 及びダウンロードしたファイルの中の「applications/modules
 
 ### Mac
 
-Araxis社 Merge for Max OS X（トライアル版）[http://www.araxis.com/merge_mac/ja/Download.html]
+[Araxis社 Merge for Max OS X（トライアル版）](http://www.araxis.com/merge_mac/ja/Download.html)
 
 ### Windows
 
-WinMerge[http://winmerge.org/]
+[WinMerge](http://winmerge.org/)
 
 ## ライセンス
 
